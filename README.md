@@ -19,7 +19,7 @@ Implementing efficient sorting algorithms for the vector-based approach
 Handling hash collisions in the hash table implementation
 Balancing the BST to maintain optimal performance
 
-These challenges were overcome through careful algorithm design and implementation.
+I overcame these challenges through careful algorithm design and implementation.
 
 This project expanded my approach to software design by:
 Emphasizing the importance of choosing appropriate data structures
