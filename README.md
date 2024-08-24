@@ -13,24 +13,24 @@ BSTs provide a balance between search efficiency and ordered traversal, but can 
 
 Understanding these characteristics allows you to choose the most appropriate structure for specific use cases.
 
-Overcoming roadblocks:
+Roadblocks:
 
-Implementing efficient sorting algorithms for the vector-based approach
-Handling hash collisions in the hash table implementation
-Balancing the BST to maintain optimal performance
+Implementing efficient sorting algorithms for the vector-based approach.
+Handling hash collisions in the hash table implementation.
+Balancing the BST to maintain optimal performance.
 
 I overcame these challenges through careful algorithm design and implementation.
 
 This project expanded my approach to software design by:
-Emphasizing the importance of choosing appropriate data structures
-Demonstrating how to implement the same functionality using different underlying structures
-Encouraging analysis of time complexity for different operations
+Emphasizing the importance of choosing appropriate data structures.
+Demonstrating how to implement the same functionality using different underlying structures.
+Encouraging analysis of time complexity for different operations.
 
 
 
 The project evolved my program writing skills by:
-Using object-oriented design (e.g., the Course class) to encapsulate data and behavior
-Implementing modular functions for specific tasks (e.g., loadDataStructure, printCourseList)
-Providing clear comments and using meaningful variable names
-Creating a flexible design that allows easy switching between data structures
-Using error handling to make the program more robust
+Using object-oriented design (e.g., the Course class) to encapsulate data and behavior.
+Implementing modular functions for specific tasks (e.g., loadDataStructure, printCourseList).
+Providing clear comments and using meaningful variable names.
+Creating a flexible design that allows easy switching between data structures.
+Using error handling to make the program more robust.
